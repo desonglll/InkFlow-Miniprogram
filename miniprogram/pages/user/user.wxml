@@ -1,0 +1,7 @@
+<!--pages/profile/profile.wxml-->
+<scroll-view>
+  <profile></profile>
+  <view class="container">
+    hello
+  </view>
+</scroll-view>

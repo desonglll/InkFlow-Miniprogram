@@ -1,0 +1,8 @@
+<!--pages/home/home.wxml-->
+
+<scroll-view class="scrollarea" scroll-y type="list">
+  <view class="container">
+    <text>pages/home/home.wxml</text>
+    <van-button type="primary">hello</van-button>
+  </view>
+</scroll-view>
